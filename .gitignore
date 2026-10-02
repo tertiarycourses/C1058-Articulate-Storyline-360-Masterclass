@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+.claude/
+assessment/
+reference/
+source-wsq/
+build/__pycache__/
+__pycache__/
+*.py[cod]
+~$*
+*.txt
